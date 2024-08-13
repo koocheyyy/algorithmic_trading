@@ -1,4 +1,8 @@
-his code implements a Moving Average Crossover Strategy using historical stock data. The main tasks performed by the code are:
+# Moving Average Crossover Strategy
+
+## Code Overview
+
+This code implements a Moving Average Crossover Strategy using historical stock data. The main tasks performed by the code are:
 
 1. **Installs necessary libraries**:
    - `pandas`
