@@ -2,7 +2,9 @@
 
 ## Code Overview
 
-This code implements a Moving Average Crossover Strategy using historical stock data. The main tasks performed by the code are:
+This project implements a Moving Average Crossover Strategy using historical stock data paired with Relative Strength Indexes. This project contains 2 inplementations using this strategy, one provides buy and sell signals for a single stock and another applies the same strategy to all SP500 stocks.
+
+The main tasks performed by the code are:
 
 1. **Installs necessary libraries**:
    - `pandas`
